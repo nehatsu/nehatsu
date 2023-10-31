@@ -1,5 +1,5 @@
-- 👋 I was born and raised in Japan and python irregularly.
-- とにかくpythonやってます
+👋 I was born and raised in Japan and python irregularly.
+ とにかくpythonやってます
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,discord,pr)](https://skillicons.dev)
 <!---
 当てにならないスキル表
